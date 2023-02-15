@@ -27,7 +27,7 @@ css: unocss
 
 # Frontend Tech Primer
 
-Tobias Bester | EPI-USE Labs | 2023 | xxxxx
+Tobias Bester | EPI-USE Labs | 2023 | frontend-tech-primer-presentation.vercel.app
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
